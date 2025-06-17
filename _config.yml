@@ -22,7 +22,7 @@ repository               : "mlee864/mlee864.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me.png"
+  avatar           : "me.jpeg"
   name             : "Mingyu Lee"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate Researcher \n Efficient AI, HW-SW Co-Design"
