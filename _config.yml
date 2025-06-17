@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Mingyu Lee / Site Title"
+title                    : "Mingyu Lee"
 title_separator          : "-"
 name                     : &name "Mingyu Lee"
 description              : &description "Undergraduate Researcher"
@@ -25,14 +25,14 @@ author:
   avatar           : "profile.png"
   name             : "Mingyu Lee"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate Researcher \ Efficient AI, HW-SW Co-Design"
+  bio              : "Undergraduate Researcher \n Efficient AI, HW-SW Co-Design"
   location         : "Atlanta, GA"
   employer         : "Georgia Institute of Technology"
   uri              : # 
   email            : "mlee864@gatech.edu" 
 
   # Academic websites
-  academia         : "https://openreview.net/profile?id=%7EMingyu_Lee3"
+  academia         : # "https://openreview.net/profile?id=%7EMingyu_Lee3"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=nAFjba0AAAAJ&hl=ko"
   impactstory      : # URL
