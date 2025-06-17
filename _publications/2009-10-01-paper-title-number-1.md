@@ -2,7 +2,7 @@
 title: "OuroMamba: A Data-Free Quantization Framework for Vision Mamba"
 collection: publications
 category: conferences
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: 'https://arxiv.org/abs/2503.10959' #/publication/2009-10-01-paper-title-number-1
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-3-13
 venue: 'Conference 1'
